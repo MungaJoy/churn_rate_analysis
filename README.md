@@ -1,7 +1,7 @@
 # Customer Churn Rate Analysis (Excel)
 
 ## Overview
-An analysis of customer churn for a telecommunications companywith a customer base of 6,687 customers, built entirely in Excel using PivotTables, aggregate summary tables, and an interactive dashboard. The goal was to identify **why customers churn** and which segments are most at risk, to support retention strategy.
+An analysis of customer churn for a telecommunications company with a customer base of 6,687 customers, built entirely in Excel using PivotTables, aggregate summary tables, and an interactive dashboard. The goal was to identify **why customers churn** and which segments are most at risk, to support retention strategy.
 
 ## Data Source
 Customer-level dataset sourced from a DataCamp exercise including account tenure, usage (calls, minutes, data), plan type, contract type, payment method, demographics, and churn status/reason. 
